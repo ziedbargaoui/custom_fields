@@ -6,7 +6,7 @@ $:.unshift lib unless $:.include? lib
 
 require 'custom_fields/version'
 
-Gem::Specification.new 'custom_fields', CustomFields::VERSION do |spec|
+Gem::Specification.new 'custom_fields_effective', CustomFields::VERSION do |spec|
   spec.summary     = 'Custom fields extension for Mongoid.'
   spec.description = 'Manage custom fields to a Mongoid document or a collection. This module is one of the core features we implemented in our custom CMS, named LocomotiveCMS.'
   spec.author      = 'Didier Lafforgue'

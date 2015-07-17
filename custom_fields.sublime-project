@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "name": "custom_fields",
+      "name": "custom_fields_effective",
       "path": "./",
       "folder_exclude_patterns": [
         "coverage",
