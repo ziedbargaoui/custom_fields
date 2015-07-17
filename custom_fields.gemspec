@@ -7,12 +7,12 @@ $:.unshift lib unless $:.include?(lib)
 require 'custom_fields/version'
 
 Gem::Specification.new do |s|
-  s.name        = 'custom_fields'
+  s.name        = 'custom_fields_effective'
   s.version     = CustomFields::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ['Didier Lafforgue']
   s.email       = ['didier@nocoffee.fr']
-  s.homepage    = 'http://github.com/locomotivecms/custom_fields'
+  s.homepage    = 'http://github.com/ziedbargaoui/custom_fields'
   s.summary     = 'Custom fields extension for Mongoid'
   s.description = 'Manage custom fields to a mongoid document or a collection. This module is one of the core features we implemented in our custom cms named Locomotive.'
 
