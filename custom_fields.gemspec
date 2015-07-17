@@ -4,7 +4,7 @@ $:.unshift lib unless $:.include?(lib)
 require 'custom_fields/version'
 
 Gem::Specification.new do |s|
-  s.name        = 'custom_fields'
+  s.name        = 'custom_fields_effective'
   s.version     = CustomFields::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ['Didier Lafforgue']
