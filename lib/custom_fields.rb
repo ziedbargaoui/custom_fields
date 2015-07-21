@@ -51,6 +51,8 @@ end
      types/has_many
      types/many_to_many
      types/tags
+     types/captcha
+     types/picture
      field
      source
      target_helpers
