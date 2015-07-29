@@ -52,7 +52,7 @@ end
      types/many_to_many
      types/tags
      types/captcha
-     types/picture
+     types/data
      field
      source
      target_helpers
