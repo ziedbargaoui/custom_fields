@@ -53,6 +53,7 @@ end
      types/tags
      types/captcha
      types/data
+     types/free_html
      field
      source
      target_helpers
